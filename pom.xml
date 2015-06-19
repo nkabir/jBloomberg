@@ -3,7 +3,7 @@
 
   <groupId>com.assylias</groupId>
   <artifactId>jbloomberg</artifactId>
-  <version>3.3</version>
+  <version>3.3.1</version>
   <packaging>jar</packaging>
 
   <parent>
